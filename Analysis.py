@@ -10,3 +10,4 @@ import matplotlib.pyplot as plt
 plt.scatter(df['Mortality rate, infant (per 1,000 live births)'],df['GDP per capita (constant 2010 US$)'])
 plt.show()
 
+
